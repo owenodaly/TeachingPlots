@@ -3,6 +3,5 @@ matplotlib==2.0.0
 seaborn==0.8.1
 nipy==0.4.2
 pandas==0.20.3
-ipwidgets==6.0.0
 IPython==4.0.0
 scipy==1.0.0
