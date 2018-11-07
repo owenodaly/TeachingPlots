@@ -5,3 +5,4 @@ nipy==0.4.2
 pandas==0.20.3
 IPython==4.0.0
 scipy==1.0.0
+plotly==2.4.1
